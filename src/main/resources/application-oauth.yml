@@ -1,8 +1,8 @@
 oauth2:
   user:
     github:
-      client-id: 6c34d9a6903231c5a301
-      client-secret: 비밀키
+      client-id: Ov23li1CxpOgrrxdzXlI
+      client-secret: fd6e160ac52aee2762e37064d62ea83aa77a80ef
       redirect-uri: http://localhost:8080/redirect/oauth
     google:
       client-id: 54767115914-gcla0mork6h3156h4qcutjerm0mdf4fu.apps.googleusercontent.com
